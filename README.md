@@ -34,7 +34,8 @@ Em grafos de até alguns milhares de arestas cabe bem na RAM.
 - Tempo:
 Cada iteração percorre rem para graus e possivelmente todo rem em maximalNull, então O(E²) no pior caso.
 #### Caminho
-A implementação encontra-se no seguinte caminho deste repositório: [/lista1/main.kt](https://github.com/juanocv/listas_tdc/blob/main/lista1/main.kt)
+As implementações encontram-se nos seguintes caminhos deste repositório: [/lista1/EdgeColoring1.kt](https://github.com/Giovana-S-Reis/lista1_tdc/blob/main/lista1/EdgeColoring1.kt),  [/lista1/EdgeColoring2.kt](https://github.com/Giovana-S-Reis/lista1_tdc/blob/main/lista1/EdgeColoring2.kt) e  [/lista1/EdgeColoringLargeOpt.kt](https://github.com/Giovana-S-Reis/lista1_tdc/blob/main/lista1/EdgeColoringLargeOpt.kt)
+** As instâncias EdgeColoring2 e EdgeColoringLargeOpt devem ser salvas em projetos ;kotlin separados, por conterem funções e classes de mesmos nomes.
 
 ### Execução
 1. Realize o setup de um ambiente [Kotlin](https://kotlinlang.org/) em seu editor de código de preferência
@@ -66,4 +67,4 @@ A implementação encontra-se no seguinte caminho deste repositório: [/lista1/m
     Para os grafos densos (d = 0,9) o algoritmo precisou de ~0,54 |V| cores (608 para n = 500). Para densidade 0,1 foram usadas só 77 cores, corroborando que o heurístico produz soluções     mais “apertadas” quando há menos conflitos.
    
 #### Caminho
-Após execução, o resultado de cada instância executada estará em [/lista1/results](https://github.com/juanocv/listas_tdc/tree/main/lista1/results) em um arquivo `.txt`
+Após execução, o resultado de cada instância executada estará em [/lista1/results](https://github.com/Giovana-S-Reis/lista1_tdc/tree/main/lista1/results) em um arquivo `.txt`
