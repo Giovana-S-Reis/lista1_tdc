@@ -39,8 +39,8 @@ A implementação encontra-se no seguinte caminho deste repositório: [/lista1/m
 ### Execução
 1. Realize o setup de um ambiente [Kotlin](https://kotlinlang.org/) em seu editor de código de preferência
 2. Acesse a pasta onde deseja clonar o repositório atual `(cd ...)`
-3. Clone-o via terminal utilizando `git clone https://github.com/juanocv/listas_tdc` ou descompacte o `.zip`
-4. Faça o download das instâncias `.col` desejadas e mova-as para a pasta do repositório [listas_tdc/lista1/instances](https://github.com/juanocv/listas_tdc/tree/main/lista1/instances)
+3. Clone-o via terminal utilizando `git clone https://github.com/Giovana-S-Reis/lista1_tdc` ou descompacte o `.zip`
+4. Faça o download das instâncias `.col` desejadas e mova-as para a pasta do repositório [lista1_tdc/lista1/instances](https://github.com/Giovana-S-Reis/lista1_tdc/tree/main/lista1/instances)
 5. Compile via `kotlinc lista1/main.kt -include-runtime -d main.jar`
 6. Execute via `java -jar lista1/main.jar instances/{nome_da_instancia}.col` substituindo `{nome_da_instancia}` pelo nome da instância `.col` desejada
 
