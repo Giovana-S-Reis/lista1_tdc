@@ -1,0 +1,3 @@
+# instancia: C4000.5
+# ERRO no processamento do arquivo: C:\Users\giova\Documents\UFABC\teoria_da_computacao\testes\C4000.5.col
+# Mensagem: OutOfMemoryError: Java heap space

@@ -1,0 +1,3 @@
+# instancia: r1000.1c
+# ERRO no processamento do arquivo: C:\Users\giova\Documents\UFABC\teoria_da_computacao\testes\r1000.1c.col
+# Mensagem: OutOfMemoryError: Java heap space

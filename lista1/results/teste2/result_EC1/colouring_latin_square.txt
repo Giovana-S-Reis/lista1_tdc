@@ -1,0 +1,3 @@
+# instancia: latin_square
+# ERRO no processamento do arquivo: C:\Users\giova\Documents\UFABC\teoria_da_computacao\testes\latin_square.col
+# Mensagem: OutOfMemoryError: Java heap space

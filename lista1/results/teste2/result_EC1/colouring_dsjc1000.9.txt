@@ -1,0 +1,3 @@
+# instancia: dsjc1000.9
+# ERRO no processamento do arquivo: C:\Users\giova\Documents\UFABC\teoria_da_computacao\testes\dsjc1000.9.col
+# Mensagem: OutOfMemoryError: Java heap space

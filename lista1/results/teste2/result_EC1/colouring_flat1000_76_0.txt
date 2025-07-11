@@ -1,0 +1,3 @@
+# instancia: flat1000_76_0
+# ERRO no processamento do arquivo: C:\Users\giova\Documents\UFABC\teoria_da_computacao\testes\flat1000_76_0.col
+# Mensagem: OutOfMemoryError: Java heap space
