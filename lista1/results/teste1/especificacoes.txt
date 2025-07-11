@@ -1,0 +1,3 @@
+rocessador ; 
+Memoria RAM ; 
+sistema operacional: 
